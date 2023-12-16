@@ -1,16 +1,17 @@
-# Weather Today Completed
+# Weather App (Flutter) 
+# Final project
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Name:
+Farhan Zaman Ha-mim (2022157)
+Safina Islam Aboni (2030330)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Screenshot Attached of Work
+![Screenshot_20231216_235658](https://github.com/FarhanHamim/Weather-App/assets/65287208/576f18d1-d764-4e73-bd17-af47a7b33cd7)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Screenshot_20231216_235810](https://github.com/FarhanHamim/Weather-App/assets/65287208/2103a251-b3c8-4bc0-b218-f897a3024da4)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Screenshot_20231216_235905](https://github.com/FarhanHamim/Weather-App/assets/65287208/9fbbd2da-0450-446b-b6e4-cc49165a9694)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Screenshot_20231216_235944](https://github.com/FarhanHamim/Weather-App/assets/65287208/dcfefce6-177d-4a75-bbc5-80fbab11d455)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
